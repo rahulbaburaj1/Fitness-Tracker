@@ -1,5 +1,6 @@
 # Fitness-Tracker
-![Uploading Screenshot (5).png…]()
+
+![Screenshot (5)](https://github.com/rahulbaburaj1/Fitness-Tracker-/assets/44516492/ca6f0ae8-0a22-4e5b-b0cd-7ccb2f9cf912)
 
 
 ## TECHNOLOGIES USED
